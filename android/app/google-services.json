@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742214844245",
+    "project_id": "makeup-app-b20d3",
+    "storage_bucket": "makeup-app-b20d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742214844245:android:23ef78da64c1971f34f9dc",
+        "android_client_info": {
+          "package_name": "com.example.makeup_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAul7f_SIe4sCnSAjVm-jrwHzOuogy9Sqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
